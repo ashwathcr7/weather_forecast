@@ -1,6 +1,5 @@
 # Project Overview
-In this project, we'll predict tomorrow's temperature in India using historical data. We'll start by downloading a dataset of local weather. You can customize this to your own location. Then, we'll clean the data and get it ready for machine learning. We'll build a system to make historical predictions. Then, we'll add more predictors to improve the model. We'll end with how to make next-day predictions.
-
+The given dataset is from 1990 to 2022. In this project, we'll be able to predict future temperatures in Chennai using historical data. We'll start by downloading a dataset of local weather. Then, we'll clean the data and prepare it for machine learning. We'll build a system using NueralProphet to make historical predictions. 
 # Project Steps
 
 * Download weather data
@@ -22,6 +21,6 @@ To complete this project, you'll need to have a good understanding of:
 * Using Jupyter notebook
 * You'll also need to know the basics of machine learning.
 
-You can dowload the datset for the project here
+You can download the dataset for the project here
 
-File overview - Chennai_1990_2022_Madras
+File overview - Chennai_1990_2022_Madras.csv
